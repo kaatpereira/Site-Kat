@@ -33,32 +33,20 @@
         <span></span>
         <div class="estudante-div">
             <h3 class="estudante-nome">Camila Boruck</h3>
-            <a href="https://github.com/marcelopaludetto"><img class="estudante-icone" src="github.png" alt="icone github"></a>
-            <a href="https://linkedin.com/marcelopaludetto"><img class="estudante-icone" src="linkedin.png" alt="icone linkedin"></a>
-            <a href="https://instagram.com/marcelopaludetto"><img class="estudante-icone" src="instagram.png" alt="icone instagram"></a>
+            <p class= "escola-texto-um"> Email: camila.boruck@escola.pr.gov.br   Ig:_bcamiss
         </div>
         <div class="estudante-div">
             <h3 class="estudante-nome">Katlin Sabrina Pereira</h3>
-            <a href="https://github.com/GabrielaM-L"><img class="estudante-icone" src="github.png" alt="icone github"></a>
-            <a href="https://www.linkedin.com/in/gabriela-marcomini-de-lima/"><img class="estudante-icone" src="linkedin.png" alt="icone linkedin"></a>
-            <a href="https://www.instagram.com/gabriela_marcomini/"><img class="estudante-icone" src="instagram.png" alt="icone instagram"></a>
+            <p class= "escola-texto-um"> Email: katlin.pereira@escola.pr.gov.br   Ig: _kaatpereira
         </div>
         <div class="estudante-div">
             <h3 class="estudante-nome">Natália Nalon Comerlato</h3>
-            <a href="https://github.com/LizandraDuarte40"><img class="estudante-icone" src="github.png" alt="icone github"></a>
-            <a href="https://www.linkedin.com/in/lizandrarlm-duarte/"><img class="estudante-icone" src="linkedin.png" alt="icone linkedin"></a>
-            <a href="https://www.instagram.com/lizandrarlm"><img class="estudante-icone" src="instagram.png" alt="icone instagram"></a>
+            <p class= "escola-texto-um"> Email: natália.comerlato@escola.pr.gov.br Ig: natalianalon
         </div>
-        <span></span>
-        <span></span>
         <div class="estudante-div">
             <h3 class="estudante-nome">Valentina Nalon Comerlato</h3>
-            <a href="https://github.com/JoiceAlura"><img class="estudante-icone" src="github.png" alt="icone github"></a>
-            <a href="https://www.linkedin.com/in/joicebarbaresco/"><img class="estudante-icone" src="linkedin.png" alt="icone linkedin"></a>
-            <a href="https://www.instagram.com/joicebarbaresco/"><img class="estudante-icone" src="instagram.png" alt="icone instagram"></a>
+            <p class= "escola-texto-um"> Email: valentina.comerlato@escola.pr.gov.br Ig: tinacomerlato
         </div>
-
-    </div>
     </section>
     <footer class="rodape">
         <img class="rodape-imagem"src="alurastart logo.png" alt="logo da alura start">
